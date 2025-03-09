@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terza Opera</title>
+</head>
+<body>
+
+    <h1>Terza Opera</h1>
+    
+    <p><b>Autore:</b> Un Altro Artista</p>
+    
+    <p><i>Descrizione:</i> Questa opera rappresenta un passo fondamentale nell'evoluzione del movimento artistico.</p>
+    
+    <img src="https://www.google.com/imgres?q=evoluzione%20del%20movimento%20artistico&imgurl=https%3A%2F%2Fantiques-magazine.com%2Fwp-content%2Fuploads%2F2024%2F02%2FPastorello-con-capretta-olio-su-tela-Francia-XIX-secolo.jpg&imgrefurl=https%3A%2F%2Fantiques-magazine.com%2Fil-ritratto-e-la-sua-evoluzione%2F&docid=HWTAzxYGu5dxOM&tbnid=CqWbKbX_opOH4M&vet=12ahUKEwiOqPHy4PyLAxWIxgIHHfTtARcQM3oFCIABEAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwiOqPHy4PyLAxWIxgIHHfTtARcQM3oFCIABEAA.jpg" alt="Terza Opera" width="400">
+
+    <p><a href="index.html">Torna alla Home Page</a></p>
+
+</body>
+</html>

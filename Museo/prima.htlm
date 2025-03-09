@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prima Opera</title>
+</head>
+<body>
+
+    <h1>Prima Opera</h1>
+    
+    <p><b>Autore:</b> Artista Famoso</p>
+    
+    <p><i>Descrizione:</i> Questa opera è un esempio importante dell'arte moderna.</p>
+    
+    <img src="https://www.google.com/imgres?q=arte%20moderna&imgurl=https%3A%2F%2Fwww.artuu.it%2Fwp-content%2Fuploads%2F2022%2F04%2FGAM-GALLERIA_CIVICA_D-ARTE_MODERNA_E_CONTEMPORANEA.jpeg&imgrefurl=https%3A%2F%2Fwww.artuu.it%2Farte-moderna-e-contemporanea-qual-e-la-differenza%2F&docid=mHVDehVaunl1LM&tbnid=mdhzh-DOGwUQlM&vet=12ahUKEwiWjauU4PyLAxUE4QIHHRXYG7sQM3oECBkQAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwiWjauU4PyLAxUE4QIHHRXYG7sQM3oECBkQAA.jpg" alt="Prima Opera" width="400">
+
+    <p><a href="index.html">Torna alla Home Page</a></p>
+
+</body>
+</html>

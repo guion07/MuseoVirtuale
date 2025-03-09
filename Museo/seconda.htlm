@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seconda Opera</title>
+</head>
+<body>
+
+    <h1>Seconda Opera</h1>
+    
+    <p><b>Autore:</b> Altro Artista Famoso</p>
+    
+    <p><i>Descrizione:</i> Quest'opera è stata creata con una tecnica unica che ha influenzato molti artisti successivi.</p>
+    
+    <img src="https://www.google.com/imgres?q=opera%20impressionista&imgurl=https%3A%2F%2Fwww.arteinweb.it%2Fwp-content%2Fuploads%2F2019%2F02%2FAlba-1872-da-Claude-Monet-Dipinti-Ad-Olio-per-Soggiorno-Dipinta-A-Mano-Su-Tela-Opera.jpg_640x640.jpg&imgrefurl=https%3A%2F%2Fwww.arteinweb.it%2Fblog%2Flimpressionista-claude-monet%2F&docid=4yK9bbTP7boGOM&tbnid=SfGNKmDbr5cKlM&vet=12ahUKEwiZjuDO4PyLAxWg9wIHHV_AF7sQM3oECFcQAA..i&w=640&h=533&hcb=2&ved=2ahUKEwiZjuDO4PyLAxWg9wIHHV_AF7sQM3oECFcQAA.jpg" alt="Seconda Opera" width="400">
+
+    <p><a href="index.html">Torna alla Home Page</a></p>
+
+</body>
+</html>

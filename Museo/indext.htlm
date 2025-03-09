@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Il mio museo virtuale</title>
+</head>
+<body>
+
+    <h1 align="center">Il mio museo virtuale</h1>
+    
+    <p>Benvenuti nel mio museo virtuale! Qui potete esplorare alcune delle opere più significative.</p>
+    
+    <ul>
+        <li><a href="prima.html">Prima Opera</a></li>
+        <li><a href="seconda.html">Seconda Opera</a></li>
+        <li><a href="terza.html">Terza Opera</a></li>
+    </ul>
+
+</body>
+</html>
